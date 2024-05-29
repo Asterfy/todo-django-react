@@ -5,7 +5,6 @@ This is a simple Todo List project built with React for the frontend, Tailwind C
 ## Features
 
 - Add, edit, and delete tasks.
-- Mark tasks as completed.
 - Responsive and user-friendly interface.
 
 ## Technologies Used
